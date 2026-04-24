@@ -1,4 +1,4 @@
-# laravel-forge-woodpecker-action
+# Laravel Forge Woodpecker Plugin
 
 Woodpecker CI plugin that triggers a [Laravel Forge](https://forge.laravel.com) deployment. 
 
